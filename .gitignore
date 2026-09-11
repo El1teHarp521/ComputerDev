@@ -1,0 +1,11 @@
+@"
+venv/
+.env/
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+.pytest_cache/
+*.log
+"@ | Out-File -FilePath .gitignore -Encoding utf8
