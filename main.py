@@ -15,7 +15,7 @@ def check_availability(is_assigned: bool) -> str:
     return "Устройство закреплено"
 
 
-# Функция 2: Расчет возраста устройства
+# Функция 2: Расчет срока службы оборудования
 def calculate_age(purchase_year: int, current_year: int) -> int:
     return current_year - purchase_year
 
