@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ноутбук ThinkPad T14",
+    "inventory_number": 10452,
+    "purchase_year": 2021,
+    "last_maintenance_year": 2023
+  },
+  {
+    "id": 2,
+    "name": "ПК Рабочая станция Dell",
+    "inventory_number": 10453,
+    "purchase_year": 2024,
+    "last_maintenance_year": 2024
+  },
+  {
+    "id": 3,
+    "name": "Монитор LG UltraFine",
+    "inventory_number": 10454,
+    "purchase_year": 2020,
+    "last_maintenance_year": 2022
+  }
+]
