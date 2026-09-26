@@ -1,23 +1,18 @@
 [
   {
     "id": 1,
-    "name": "Ноутбук ThinkPad T14",
+    "name": "ThinkPad T14",
     "inventory_number": 10452,
-    "purchase_year": 2021,
-    "last_maintenance_year": 2023
+    "category_id": 1,
+    "state_id": 1,
+    "user_id": null
   },
   {
     "id": 2,
-    "name": "ПК Рабочая станция Dell",
+    "name": "Dell UltraSharp 27",
     "inventory_number": 10453,
-    "purchase_year": 2024,
-    "last_maintenance_year": 2024
-  },
-  {
-    "id": 3,
-    "name": "Монитор LG UltraFine",
-    "inventory_number": 10454,
-    "purchase_year": 2020,
-    "last_maintenance_year": 2022
+    "category_id": 2,
+    "state_id": 2,
+    "user_id": 1
   }
 ]

@@ -1,8 +1,8 @@
 def input_int(prompt: str) -> int:
-    """Запросить у пользователя целое число."""
+    """Безопасный ввод целого числа."""
     while True:
-        raw_val = input(prompt).strip()
+        raw = input(prompt).strip()
         try:
-            return int(raw_val)
+            return int(raw)
         except ValueError:
             print("Ошибка: введите корректное целое число.")
